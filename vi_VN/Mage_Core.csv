@@ -49,7 +49,7 @@
 "Can not create invoice. Order was not found.","Can not create invoice. Order was not found."
 "Can't retrieve request object","Can't retrieve request object"
 "Can\'t retrieve entity config: %s","Can\'t retrieve entity config: %s"
-"Cancel","Cancel"
+"Cancel","Bỏ qua"
 "Cannot complete this operation from non-admin area.","Cannot complete this operation from non-admin area."
 "Card type does not match credit card number.","Card type does not match credit card number."
 "Code","Code"
