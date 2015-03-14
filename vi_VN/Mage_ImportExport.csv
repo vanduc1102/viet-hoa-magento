@@ -9,7 +9,7 @@
 "Column names have duplicates","Column names have duplicates"
 "Column names is empty or is not an array","Column names is empty or is not an array"
 "Column names: ""%s"" are invalid","Column names: ""%s"" are invalid"
-"Continue","Continue"
+"Continue","Tiếp tục"
 "Data is invalid or file is not uploaded","Data is invalid or file is not uploaded"
 "Destination directory is not writable","Destination directory is not writable"
 "Destination file is not writable","Destination file is not writable"
