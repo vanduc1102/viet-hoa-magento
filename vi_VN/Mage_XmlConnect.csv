@@ -399,7 +399,7 @@
 "Output format is not specified. Please, specify ""format"" key in constructor, or set it using setFormat().","Output format is not specified. Please, specify ""format"" key in constructor, or set it using setFormat()."
 "POST data is not valid.","POST data is not valid."
 "Pages","Pages"
-"Password","Password"
+"Password","Mật khẩu"
 "Password fields cannot be empty.","Password fields cannot be empty."
 "PayPal MECL is the mobile version of PayPal\'s Express Checkout service. You can choose to use MECL alongside standard checkout, or use it as your only checkout method for Magento Mobile.","PayPal MECL is the mobile version of PayPal\'s Express Checkout service. You can choose to use MECL alongside standard checkout, or use it as your only checkout method for Magento Mobile."
 "PayPal MEP","PayPal MEP"
