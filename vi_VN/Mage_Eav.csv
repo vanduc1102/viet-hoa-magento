@@ -102,7 +102,7 @@
 "Not shared with other products","Not shared with other products"
 "Problem loading the collection, aborting. Error: %s","Problem loading the collection, aborting. Error: %s"
 "Problem saving the collection, aborting. Error: %s","Problem saving the collection, aborting. Error: %s"
-"Required","Required"
+"Required","Bắt buộc"
 "Saved %d record(s).","Saved %d record(s)."
 "Source model ""%s"" not found for attribute ""%s""","Source model ""%s"" not found for attribute ""%s"""
 "System","Hệ thống"
