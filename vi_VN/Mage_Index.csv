@@ -1,7 +1,7 @@
 "%s Index process is working now. Please try run this process later.","%s Index process is working now. Please try run this process later."
 "%s index was rebuilt.","%s chỉ mục đã được tạo lại."
 "'%s' Index Process Information","'%s' thông tin xử lý chỉ mục"
-"Action","Hành động"
+"Action","Thao tác"
 "Cannot initialize the indexer process.","Cannot initialize the indexer process."
 "Change Index Mode","Change Index Mode"
 "Click here to go to <a href=""%s"">Cache Management</a> and refresh cache types.","Nhấn vào đây để chuyển tới <a href=""%s"">Quản Lý Bộ Đệm</a> và làm mới lại các bộ đệm."
