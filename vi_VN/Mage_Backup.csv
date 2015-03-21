@@ -2,7 +2,7 @@
 "An error occurred while creating the backup.","An error occurred while creating the backup."
 "An error occurred while writing to the backup file ""%s"".","An error occurred while writing to the backup file ""%s""."
 "Are you sure you want to delete the selected backup(s)?","Are you sure you want to delete the selected backup(s)?"
-"Backup Type","Backup Type"
+"Backup Type","Kiểu sao lưu"
 "Backup file ""%s"" cannot be read from or written to.","Backup file ""%s"" cannot be read from or written to."
 "Backup file ""%s"" does not exist.","Backup file ""%s"" does not exist."
 "Backup file does not exist.","Backup file does not exist."
