@@ -93,7 +93,7 @@
 "Joint field or attribute expression with this alias is already declared","Joint field or attribute expression with this alias is already declared"
 "Letters","Letters"
 "Letters (a-z, A-Z) or Numbers (0-9)","Letters (a-z, A-Z) or Numbers (0-9)"
-"Loaded %d records","Loaded %d records"
+"Loaded %d records","Đã tải %d dữ liệu"
 "Maximum length of attribute code must be less then %s symbols","Maximum length of attribute code must be less then %s symbols"
 "Multiple Select","Nhiều lựa chọn"
 "No","Không"
