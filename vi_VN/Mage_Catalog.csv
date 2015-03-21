@@ -317,7 +317,7 @@
 "If empty, the Category Name will be used","If empty, the Category Name will be used"
 "If empty, the Product Name will be used","If empty, the Product Name will be used"
 "If you do not specify an option value for a specific store view then the default (Admin) value will be used.","If you do not specify an option value for a specific store view then the default (Admin) value will be used."
-"Image","Image"
+"Image","Hình ảnh"
 "Image content is not valid base64 data.","Image content is not valid base64 data."
 "Image does not exist.","Image does not exist."
 "Image file was not found.","Image file was not found."
