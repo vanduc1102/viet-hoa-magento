@@ -16,7 +16,7 @@
                                 location until the synchronization process is complete.","After selecting a new media storage location, press the Synchronize button
                                 to transfer all media to that location. Media will not be available in the new
                                 location until the synchronization process is complete."
-"Allow Countries","Allow Countries"
+"Allow Countries","Quốc gia có hiệu lực"
 "Allow Symlinks","Allow Symlinks"
 "Allowed IPs (comma separated)","Allowed IPs (comma separated)"
 "Allowed file types: ICO, PNG, GIF, JPEG, APNG, SVG. Not all browsers support all these formats!","Allowed file types: ICO, PNG, GIF, JPEG, APNG, SVG. Not all browsers support all these formats!"
@@ -59,7 +59,7 @@
 "Cookie Path","Cookie Path"
 "Copyright","Copyright"
 "Core","Core"
-"Countries Options","Countries Options"
+"Countries Options","Tùy chọn quốc gia"
 "Country","Quốc gia"
 "Create Store","Create Store"
 "Create Store View","Create Store View"
@@ -83,7 +83,7 @@
 "Date/time format ""%s"" is not supported.","Date/time format ""%s"" is not supported."
 "Debug","Gỡ lỗi"
 "Default","Mặc định"
-"Default Country","Default Country"
+"Default Country","Quốc gia mặc định"
 "Default Description","Default Description"
 "Default Keywords","Default Keywords"
 "Default No-route URL","Default No-route URL"
