@@ -1,5 +1,5 @@
 " in rows: "," in rows: "
-"-- Please Select --","-- Please Select --"
+"-- Please Select --","-- Hãy chọn --"
 "Adapter must be an instance of Mage_ImportExport_Model_Import_Adapter_Abstract","Adapter must be an instance of Mage_ImportExport_Model_Import_Adapter_Abstract"
 "Adapter type must be a non empty string","Adapter type must be a non empty string"
 "Can not determine attribute filter type","Can not determine attribute filter type"
