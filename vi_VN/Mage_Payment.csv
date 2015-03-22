@@ -134,5 +134,5 @@
 "Whether to suspend the payment profile if the initial fee fails or add it to the outstanding balance.","Whether to suspend the payment profile if the initial fee fails or add it to the outstanding balance."
 "Wrong %s specified.","Wrong %s specified."
 "Wrong or empty billing amount specified.","Wrong or empty billing amount specified."
-"Year","Year"
+"Year","Năm"
 "Zero Subtotal Checkout","Zero Subtotal Checkout"
