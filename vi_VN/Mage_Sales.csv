@@ -472,7 +472,7 @@
 "PDF object is not specified.","PDF object is not specified."
 "PDF page object is not specified.","PDF page object is not specified."
 "PDF total model should extend Mage_Sales_Model_Order_Pdf_Total_Default","PDF total model should extend Mage_Sales_Model_Order_Pdf_Total_Default"
-"Package","Package"
+"Package","Gói"
 "Package types are disregarded for USPS domestic shipments.","Package types are disregarded for USPS domestic shipments."
 "Packages","Packages"
 "Packingslip # ","Packingslip # "
