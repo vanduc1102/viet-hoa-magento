@@ -2,7 +2,7 @@
 "%s index was rebuilt.","%s chỉ mục đã được tạo lại."
 "'%s' Index Process Information","'%s' thông tin xử lý chỉ mục"
 "Action","Thao tác"
-"Cannot initialize the indexer process.","Cannot initialize the indexer process."
+"Cannot initialize the indexer process.","Không thể khởi động tiến trình đánh chỉ mục."
 "Change Index Mode","Change Index Mode"
 "Click here to go to <a href=""%s"">Cache Management</a> and refresh cache types.","Nhấn vào đây để chuyển tới <a href=""%s"">Quản Lý Bộ Đệm</a> và làm mới lại các bộ đệm."
 "Click here to go to <a href=""%s"">Index Management</a> and rebuild required indexes.","Nhấn vào đây để chuyển tới <a href=""%s"">Quản Lý Chỉ Mục</a> và tạo lại các chỉ mục được yêu cầu."
