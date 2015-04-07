@@ -412,7 +412,7 @@
 "Payment Bridge module unavailable.","Payment Bridge module unavailable."
 "Payment Method","Phương thức thanh toán"
 "Payment Method has been set.","Payment Method has been set."
-"Payment Methods","Payment Methods"
+"Payment Methods","Phương thức thanh toán"
 "Payment method was successfully set.","Payment method was successfully set."
 "Paypal MEP doesn\'t support checkout with any discount.","Paypal MEP doesn\'t support checkout with any discount."
 "Please <a href=""%s"" target=""_blank"">click here</a> to see how to setup and retrieve API credentials.","Please <a href=""%s"" target=""_blank"">click here</a> to see how to setup and retrieve API credentials."

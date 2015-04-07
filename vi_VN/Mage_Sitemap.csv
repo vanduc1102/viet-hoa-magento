@@ -12,7 +12,7 @@
 "File ""%s"" cannot be saved. Please, make sure the directory ""%s"" is writeable by web server.","File ""%s"" cannot be saved. Please, make sure the directory ""%s"" is writeable by web server."
 "Filename","Tên Tệp"
 "Frequency","Frequency"
-"Generate","Phần chung"
+"Generate","Sinh Mã"
 "Generation Settings","Cài đặt chung"
 "Google Sitemap","Google Sitemap"
 "Hourly","Mỗi giờ"
