@@ -67,7 +67,7 @@
 "Overrides API URL that may be specified by a payment method.","Overrides API URL that may be specified by a payment method."
 "Password","Mật khẩu"
 "Payment ID: %s","Payment ID: %s"
-"Payment Method","Payment Method"
+"Payment Method","Phương thức thanh toán"
 "Payment Methods","Payment Methods"
 "Payment Methods Section","Payment Methods Section"
 "Payment Reference ID","Payment Reference ID"
