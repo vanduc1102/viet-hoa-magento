@@ -27,7 +27,7 @@
 "Payment error. Order was not found.","Lỗi thanh toán, không tìm thấy đơn hàng."
 "Payment error. Paid amount doesn\'t match the order amount.","Payment error. Paid amount doesn\'t match the order amount."
 "Payment from Applicable Countries","Payment from Applicable Countries"
-"Payment from Specific Countries","Payment from Specific Countries"
+"Payment from Specific Countries","Thanh toán từ các quốc gia"
 "Please, choose payment method","Please, choose payment method"
 "Response hash validation failed. Transaction declined.","Response hash validation failed. Transaction declined."
 "Sort Order","Thứ tự"
