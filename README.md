@@ -9,7 +9,8 @@ Dự án Việt Hóa Magento
 3. Xóa Cache.
 4. Tận hưởng sự tuyệt vời của magento. 
 
-#Clearing Cache in the Admin Panel
+# Clearing Cache in the Admin Panel
+
 1. Log into your Magento Admin Panel
 2. Go to System --> Cache Management
 3. Click on the “Flush Cache Storage” button
